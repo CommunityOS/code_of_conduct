@@ -18,7 +18,7 @@ Si continúa utilizando el Servicio después de que los Términos revisados entr
 
 ## Política de privacidad
 
-Para obtener información sobre cómo recopilamos y usamos información sobre los usuarios del Servicio, consulte nuestra política de privacidad disponible en [./politica_de_privacidad/README.md](./politica_de_privacidad/README.md)
+Para obtener información sobre cómo recopilamos y usamos información sobre los usuarios del Servicio, consulte nuestra política de privacidad disponible en [/politica_de_privacidad/README.md](/politica_de_privacidad/README.md)
 
 ## Servicios de terceros
 
