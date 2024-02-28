@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-Javascript Chile toma en serio su privacidad. Para proteger mejor su privacidad, Javascript Chile proporciona este aviso de política de privacidad que explica la forma en que se recopila y utiliza su información personal.
+CommunityOS toma en serio tu privacidad. Para proteger mejor tu privacidad, CommunityOS proporciona este aviso de política de privacidad que explica la forma en que se recopila y utiliza su información personal.
 
 ## Recopilación de información rutinaria
 
@@ -16,18 +16,18 @@ Los socios publicitarios y otros terceros pueden usar cookies, scripts y/o baliz
 
 ## Enlaces a sitios web de terceros
 
-Javascript Chile ha incluido enlaces en esta aplicación para su uso y referencia. Javascript Chile no es responsable de las políticas de privacidad de estos sitios web. Debe tener en cuenta que las políticas de privacidad de estos sitios web pueden diferir de las nuestras.
+CommunityOS ha incluido enlaces en esta aplicación para su uso y referencia. CommunityOS no es responsable de las políticas de privacidad de estos sitios web. Debe tener en cuenta que las políticas de privacidad de estos sitios web pueden diferir de las nuestras.
 
 ## Seguridad
 
-La seguridad de su información personal es importante para nosotros, pero recuerde que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro. Si bien Javascript Chile se esfuerza por utilizar medios comercialmente aceptables para proteger su información personal, Javascript Chile no puede garantizar su seguridad absoluta.
+La seguridad de su información personal es importante para nosotros, pero recuerde que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro. Si bien CommunityOS se esfuerza por utilizar medios comercialmente aceptables para proteger su información personal, CommunityOS no puede garantizar su seguridad absoluta.
 
 ## Cambios a esta política de privacidad
 
-Esta Política de privacidad entra en vigencia a partir del 11 de noviembre de 2022 y permanecerá vigente excepto con respecto a cualquier cambio en sus disposiciones en el futuro, que entrará en vigencia inmediatamente después de su publicación en esta página.
+Esta Política de privacidad entra en vigencia a partir del 27 de febrero de 2024 y permanecerá vigente excepto con respecto a cualquier cambio en sus disposiciones en el futuro, que entrará en vigencia inmediatamente después de su publicación en esta página.
 
-Javascript Chile se reserva el derecho de actualizar o cambiar nuestra Política de Privacidad en cualquier momento y debes revisar esta Política de Privacidad periódicamente. Si Javascript Chile realiza algún cambio sustancial en esta Política de privacidad, Javascript Chile se lo notificará a través de la dirección de correo electrónico que nos proporcionó o colocando un aviso destacado en nuestra aplicación.
+CommunityOS se reserva el derecho de actualizar o cambiar nuestra Política de Privacidad en cualquier momento y debes revisar esta Política de Privacidad periódicamente. Si CommunityOS realiza algún cambio sustancial en esta Política de privacidad, CommunityOS se lo notificará a través de la dirección de correo electrónico que nos proporcionó o colocando un aviso destacado en nuestra aplicación.
 
 ## Información del contacto
 
-Para cualquier pregunta o inquietud con respecto a la política de privacidad, envíanos un correo electrónico a [help@jsconf.cl](mailto:help@jsconf.cl)
+Para cualquier pregunta o inquietud con respecto a la política de privacidad, envíanos un correo electrónico a [contacto@communityos.io](mailto:contacto@communityos.io)
