@@ -101,4 +101,4 @@ Please let us know what you think of the Service, these Terms and, in general, j
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at the email address help@jsconf.cl
+Questions or comments about the Service may be directed to us at the email address contacto@communityos.io
