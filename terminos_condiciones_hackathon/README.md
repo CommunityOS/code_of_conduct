@@ -1,6 +1,6 @@
 # Términos y condiciones
 
-Las siguientes bases están sujetas a postulación. Solo podrán participar aquellos equipos que sean seleccionados a través del proceso de postulación.
+Las siguientes bases están sujetas a modificación. Solo podrán participar aquellos equipos que sean seleccionados a través del proceso de postulación a través de https://communityos.io/ai-hackathon/.
 
 1. **Costo de Participación**: La participación en la hackathon es gratuita, pero solo se puede ingresar por selección.
 
