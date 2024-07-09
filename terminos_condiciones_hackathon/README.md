@@ -16,8 +16,7 @@ Si continúa accediendo al Servicio después de que los Términos y Condiciones 
 
 ## Política de privacidad
 
-Para obtener información sobre cómo recopilamos y usamos información sobre los usuarios del Servicio, consulte nuestra política de privacidad disponible en /politica\_de\_privacidad/README.md
-
+Para obtener información sobre cómo recopilamos y usamos información sobre los usuarios del Servicio, consulte nuestra [política de privacidad](https://github.com/CommunityOS/code_of_conduct/blob/main/politica_de_privacidad/README.md).
 
 ## Código de conducta
 
