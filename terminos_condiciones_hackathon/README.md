@@ -2,7 +2,7 @@
 
 ## Aceptación de estos términos y condiciones
 
-Postular o participar de AI Hackathon indica que acepta todos los Términos y Condiciones descritos a continuación. Por lo tanto, lea todos los Términos y Condiciones. Si no está de acuerdo con todos los Términos y Condiciones a continuación, no sea parte de AI Hackathon. Además, si un Término o Condición no tiene sentido para usted, háganoslo saber a través del correo electrónico contacto@communityos.io.
+Postular o participar de AI Hackathon (también el Servicio) indica que acepta todos los Términos y Condiciones descritos a continuación. Por lo tanto, lea todos los Términos y Condiciones. Si no está de acuerdo con todos los Términos y Condiciones a continuación, no sea parte de AI Hackathon. Además, si un Término o Condición no tiene sentido para usted, háganoslo saber a través del correo electrónico contacto@communityos.io.
 
 ## Cambios de estos Términos y Condiciones
 
@@ -12,7 +12,7 @@ Siempre que hagamos cambios a estos Términos y Condiciones, los cambios entrar�
 
 Es su responsabilidad revisar [este sitio](https://github.com/CommunityOS/code_of_conduct/blob/main/terminos_condiciones_hackathon/README.md) para conocer los cambios a estos Términos y Condiciones.
 
-Si continúa utilizando el Servicio después de que los Términos y Condiciones revisados entren en vigencia, significa que ha aceptado los cambios a estos Términos y Condiciones.
+Si continúa accediendo al Servicio después de que los Términos y Condiciones revisados entren en vigencia, significa que ha aceptado los cambios a estos Términos y Condiciones.
 
 ## Política de privacidad
 
