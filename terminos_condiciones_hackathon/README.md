@@ -1,24 +1,47 @@
 # Términos y condiciones
 
-Las siguientes bases están sujetas a modificación. Solo podrán participar aquellos equipos que sean seleccionados a través del proceso de postulación a través de https://communityos.io/ai-hackathon/.
+## Aceptación de estos términos y condiciones
 
-1. **Costo de Participación**: La participación en la hackathon es gratuita, pero solo se puede ingresar por selección.
+Postular o participar de AI Hackathon indica que acepta todos los Términos y Condiciones descritos a continuación. Por lo tanto, lea todos los Términos y Condiciones. Si no está de acuerdo con todos los Términos y Condiciones a continuación, no sea parte de AI Hackathon. Además, si un Término o Condición no tiene sentido para usted, háganoslo saber a través del correo electrónico contacto@communityos.io.
 
-2. **Lugar de Desarrollo**: La hackathon se llevará a cabo en el Edificio Corporativo de la Cámara Chilena de la Construcción (Av. Apoquindo 6750, Las Condes, Santiago). Solo podrán asistir los equipos seleccionados.
+## Cambios de estos Términos y Condiciones
 
-3. **Periodo de Postulación**: Las postulaciones estarán abiertas desde el lunes 8 hasta el domingo 21 de julio a las 23:59:59 hora de Santiago de Chile (GMT-4).
+Nos reservamos el derecho de modificar estos Términos y Condiciones en cualquier momento.
 
-4. **Participación Individual**: No se permite la participación individual. Solo se seleccionarán equipos con un mínimo de dos participantes.
+Siempre que hagamos cambios a estos Términos y Condiciones, los cambios entrarán en vigencia inmediatamente después de que publiquemos su actualización (indicado al revisar la fecha en la parte superior de estos Términos y Condiciones).
 
-5. **Formación de Equipos**: Si no tienes equipo, puedes registrarte a través de un formulario para acceder a un documento compartido donde podrás ver a otras personas interesadas, junto con sus habilidades e intereses, y contactarlas para formar un equipo.
+Es su responsabilidad revisar https://communityos.io/ai-hackathon/ para conocer los cambios a estos Términos y Condiciones.
 
-6. **Número de Integrantes por Equipo**: Los equipos deben tener entre dos y cinco participantes. Uno de los participantes debe actuar como líder del equipo y representarlo en las actividades de la hackathon.
+Si continúa utilizando el Servicio después de que los Términos y Condiciones revisados entren en vigencia, significa que ha aceptado los cambios a estos Términos y Condiciones.
 
-7. **Participación de Equipos Externos**: Se permite la participación de equipos de cualquier ciudad o país, siempre y cuando todo el equipo asista al evento de manera presencial. No se cubren gastos de alojamiento, pasajes y estadía en general.
+## Política de privacidad
 
-8. **Participación Remota**: No se permite la participación remota. El evento es completamente presencial en Santiago de Chile.
+Para obtener información sobre cómo recopilamos y usamos información sobre los usuarios del Servicio, consulte nuestra política de privacidad disponible en /politica\_de\_privacidad/README.md
 
-9. **Modalidad Híbrida**: No se permite la modalidad híbrida. Todos los integrantes del equipo deben estar presentes en el evento.
+
+## Código de conducta
+
+Al ser parte de nuestras actividades acepta regirse por nuestro [código de conducta](https://github.com/CommunityOS/code\_of\_conduct/blob/main/README.md).
+
+## Reglas de AI Hackathon
+
+1. **Forma de participación**: Solo podrán participar aquellos equipos que sean seleccionados a través del proceso de postulación disponible en https://communityos.io/ai-hackathon/.
+
+2. **Costo de Participación**: La participación en la hackathon es completamente gratuita.
+
+3. **Lugar de Desarrollo**: La hackathon se llevará a cabo en el Edificio Corporativo de la Cámara Chilena de la Construcción (Av. Apoquindo 6750, Las Condes, Santiago). Solo podrán asistir los equipos seleccionados.
+
+4. **Periodo de Postulación**: Las postulaciones estarán abiertas desde el lunes 8 hasta el domingo 21 de julio a las 23:59:59 hora de Santiago de Chile (GMT-4).
+
+5. **Número de Integrantes por Equipo**: Los equipos deben tener entre dos y cinco participantes. Uno de los participantes debe actuar como líder del equipo y representarlo en las actividades de la hackathon.
+
+6. **Participación Individual**: No se permite la participación individual. Solo se seleccionarán equipos con un mínimo de dos participantes.
+
+7. **Procedencia de los equipos**: Se permite la participación de equipos de cualquier ciudad o país, siempre y cuando todo el equipo asista al evento de manera presencial. No se cubren gastos de alojamiento, pasajes y estadía en general.
+
+8. **Idioma de las actividades**: El idioma principal de las actividades será en español.
+
+9. **Participación Remota o Híbrida**: No se permite la participación remota o híbrida. El evento es completamente presencial en Santiago de Chile. Todos los integrantes del equipo deben estar presentes en el evento.
 
 10. **Apoyo Económico para Viajes**: Solo se ofrece apoyo económico a un equipo de México a través de un grant de Fintual. No hay apoyo económico para cubrir costos de viaje desde otras ciudades o países.
 
@@ -30,48 +53,42 @@ Las siguientes bases están sujetas a modificación. Solo podrán participar aqu
 
 14. **Uso de Tecnología**: Se permite utilizar cualquier combinación de tecnologías, siempre y cuando alguna de ellas sea de OpenAI.
 
-15. **Lenguajes de Programación**: Se puede utilizar cualquier lenguaje de programación, siempre que haya al menos una integración con la API de OpenAI.
+15. **Acceso a Créditos de OpenAI**: Todos los equipos seleccionados tendrán créditos de OpenAI disponibles para trabajar en sus proyectos.
 
-16. **Acceso a Créditos de OpenAI**: Todos los equipos seleccionados tendrán créditos de OpenAI disponibles para trabajar en sus proyectos.
+16. **Propiedad Intelectual**: La propiedad intelectual de todo lo producido por el equipo durante el evento pertenece plena y solamente al equipo.
 
-17. **Propiedad Intelectual**: La propiedad intelectual de todo lo producido por el equipo durante el evento pertenece al equipo.
+17. **Construcción de prototipos**: La hackathon culmina con una demostración de prototipos. Solo los equipos con una demostración funcional tendrán la posibilidad de presentar en la final del día domingo 25 de agosto de 2024.
 
-18. **Objetivo de la Hackathon**: La hackathon culmina con una demostración de prototipos. Solo los equipos con una demostración funcional podrán presentar en la final del domingo 25 de agosto.
+18. **Temáticas de la Hackathon**: Las categorías priorizadas son:
+	- Mitigación, adaptación y cambio climático.
+	- Reducción de impacto ambiental y huella de carbono.
+	- Desarrollo de las capacidades humanas y gestión del impacto de la IA en la vida de las personas.
 
-19. **Temáticas de la Hackathon**: Las categorías priorizadas son:
-    - Mitigación, adaptación y cambio climático.
-    - Reducción de impacto ambiental y huella de carbono.
-    - Desarrollo de las capacidades humanas y gestión del impacto de la IA en la vida de las personas.
+19. **Proyectos fuera de las Temáticas Priorizadas**: Se aceptan proyectos fuera de las categorías priorizadas, aunque tendrán menos posibilidades de ser seleccionados.
 
-20. **Proyectos fuera de las Temáticas Priorizadas**: Se aceptan proyectos fuera de las categorías priorizadas, aunque tendrán menos posibilidades de ser seleccionados.
+20. **Conocimientos Requeridos**: Es recomendable que el equipo esté familiarizado con la tecnología que planean utilizar y el área o problema que abordarán.
 
-21. **Conocimientos de Programación**: Al menos un miembro del equipo debe tener habilidades de programación necesarias para la ejecución del proyecto.
+21. **Perfiles de Participantes**: Buscamos perfiles diversos en programación, negocio/producto, diseño, ciencia/datos, etc.
 
-22. **Perfiles de Participantes**: Buscamos perfiles diversos en programación, negocio/producto, diseño, ciencia/datos, etc.
+22. **Mentorías Disponibles**: Habrá acceso a mentores en startups, ciencia, datos, programación/ingeniería y diseño. Los equipos podrán solicitar asistencia de manera regular durante la hackathon.
 
-23. **Conocimientos Requeridos**: Es recomendable que el equipo esté familiarizado con la tecnología que planean utilizar y el área o problema que abordarán.
+23. **Número de Equipos Seleccionados**: Se seleccionarán 30 equipos o un total de 150 personas.
 
-24. **Mentorías Disponibles**: Habrá acceso a mentores en startups, ciencia, datos, desarrollo/ingeniería y diseño. Podrás solicitar asistencia cada hora durante la hackathon.
+24. **Criterios de Selección**:
+	- Buscamos proyectos ambiciosos que utilicen capacidades de la IA y tengan un impacto significativo en las temáticas de la hackathon.
+	- Buscamos equipos capaces, diversos, con miembros de distintos perfiles y niveles de experiencia.
+	- Buscamos una clara aplicación de la IA, generen valor y busquen un impacto relevante en las personas.
 
-25. **Número de Equipos Seleccionados**: Se seleccionarán 30 equipos o un total de 150 personas.
+25. **Anuncio de Equipos Seleccionados**: Los resultados se anunciarán el martes 30 de julio por correo electrónico.
 
-26. **Criterios de Selección**:
-    - **Proyectos**: Buscamos proyectos ambiciosos que utilicen capacidades de la IA y tengan un impacto significativo.
-    - **Equipos**: Equipos diversos con miembros de distintos perfiles y niveles de experiencia.
-    - **Proyectos**: Que tengan una clara aplicación de la IA, generen valor y busquen un impacto significativo en las personas.
+26. **Jurado de la Hackathon**: El jurado estará compuesto por representantes de OpenAI, Fintual, CommunityOS, y otros expertos en inteligencia artificial, emprendimiento, innovación y desarrollo tecnológico.
 
-27. **Anuncio de Equipos Seleccionados**: Los resultados se anunciarán el martes 30 de julio por correo electrónico.
+27. **Criterios de Evaluación**: Los proyectos serán evaluados en base a innovación, viabilidad, escalabilidad, presentación y demostración, y el impacto en las categorías priorizadas.
 
-28. **Jurado de la Hackathon**: El jurado estará compuesto por representantes de OpenAI, Fintual, CommunityOS, y otros expertos en inteligencia artificial, emprendimiento, innovación y desarrollo tecnológico.
+28. **Final del Evento**: Todos los equipos con un prototipo funcional tendrán la posibilidad de presentar su proyecto en la final del domingo 25 de agosto de 2024.
 
-29. **Criterios de Evaluación**: Los proyectos serán evaluados en base a innovación, viabilidad, escalabilidad, presentación y demostración, y el impacto en las categorías priorizadas.
+29. **Anuncio del Equipo Ganador**: El equipo ganador se anunciará el domingo 25 de agosto durante la hackathon.
 
-30. **Final del Evento**: Todos los equipos con un prototipo funcional podrán presentar su proyecto en la final del domingo 25 de agosto.
+30. **Premios**: Se repartirán USD 10,000 en premios y créditos para los equipos ganadores.
 
-31. **Anuncio del Equipo Ganador**: El equipo ganador se anunciará el domingo 25 de agosto durante la hackathon.
-
-32. **Premios**: Se repartirán USD 10,000 en premios y créditos para los equipos ganadores.
-
-33. **Compromisos del Equipo Ganador**: El equipo ganador deberá participar en actividades de prensa y permitir el uso de su imagen para dichos fines. Esto incluye entrevistas, sesiones de fotografía y otras apariciones mediáticas organizadas por CommunityOS.
-
-34. **Asistencia al Evento**: La hackathon es exclusiva para hackers y mentores. Habrá cupos limitados para asistir a la sesión de demostración el domingo 25 de agosto, y se informará más adelante cómo obtener un cupo.
+31. **Compromisos de los participantes en la hackathon**: Se espera que todos los participantes, y especialmente el equipo ganador, permitan que la organización registre audiovisualmente la experiencia de la hackathon y que estén disponibles para participar en actividades de prensa, permitiendo el uso de su imagen para dichos fines. Esto incluye entrevistas, sesiones de fotografía y otras apariciones mediáticas organizadas por CommunityOS.
