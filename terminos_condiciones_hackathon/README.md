@@ -10,7 +10,7 @@ Nos reservamos el derecho de modificar estos Términos y Condiciones en cualquie
 
 Siempre que hagamos cambios a estos Términos y Condiciones, los cambios entrarán en vigencia inmediatamente después de que publiquemos su actualización (indicado al revisar la fecha en la parte superior de estos Términos y Condiciones).
 
-Es su responsabilidad revisar https://communityos.io/ai-hackathon/ para conocer los cambios a estos Términos y Condiciones.
+Es su responsabilidad revisar [este sitio](https://github.com/CommunityOS/code_of_conduct/blob/main/terminos_condiciones_hackathon/README.md) para conocer los cambios a estos Términos y Condiciones.
 
 Si continúa utilizando el Servicio después de que los Términos y Condiciones revisados entren en vigencia, significa que ha aceptado los cambios a estos Términos y Condiciones.
 
