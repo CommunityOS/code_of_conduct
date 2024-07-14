@@ -27,6 +27,7 @@ No toleramos el acoso bajo ningún tipo, forma ni contexto, directa o indirectam
 Abuso físico o verbal relacionado con el género de una persona, orientación sexual, capacidades, género, apariencia física, nivel de conocimiento, raza o creencias religiosas. Adicionalmente, creación o reproducción de imágenes de contenido sexual en espacios públicos, intimidación física o verbal, acecho, interrupciones groseras de charlas o contacto físico inapropiado.
 
 ### Comportamientos inaceptables
+- Envío de mensajes directos sin previo consentimiento en un canal público.
 - Lenguaje o contenido sexualmente explícito, violento, amenazante, discriminatorio o que promueva el odio.
 - Acoso, intimidación, o comportamiento abusivo hacia cualquier persona que sea parte de la comunidad.
 - Divulgación de información personal de otros sin su consentimiento explícito (doxxing).
