@@ -1,0 +1,28 @@
+---
+
+import "./style.css"
+import PostHog from "./posthog.astro";
+const { title = '', lang = 'es' } = Astro.props;
+
+---
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+    />
+    <link href="/favicon.svg" rel="icon" />
+    <title>CommunityOS - {title}</title>
+    <link rel="author" href="https://communityos.io/" />
+    <meta name="author" content="Community OS" />
+    <meta property="og:title" content={title} />
+    <meta
+      name="keywords"
+      content="Comunidad, Community, Código de Conducta, Code of Conduct, Términos de Compra, Purchase Terms, Política de Privacidad, Privacy Policy"
+    />
+
+    <PostHog />
+  </head>
+  <slot />
+</html>
