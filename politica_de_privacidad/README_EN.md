@@ -1,7 +1,5 @@
 # Privacy Policy
 
-# Privacy Policy
-
 CommunityOS takes your privacy seriously. To better protect your privacy, CommunityOS provides this privacy policy notice explaining how your personal information is collected and used.
 
 - We respect your privacy, always have, and always will.
