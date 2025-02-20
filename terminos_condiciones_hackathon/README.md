@@ -20,7 +20,7 @@ Para obtener información sobre cómo recopilamos y usamos información sobre lo
 
 ## Código de conducta
 
-Al ser parte de nuestras actividades acepta regirse por nuestro [código de conducta](https://github.com/CommunityOS/code\_of\_conduct/blob/main/README.md).
+Al ser parte de nuestras actividades acepta regirse por nuestro [código de conducta](https://github.com/CommunityOS/code_of_conduct/blob/main/README.md).
 
 ## Reglas de AI Hackathon
 
@@ -59,9 +59,10 @@ Al ser parte de nuestras actividades acepta regirse por nuestro [código de cond
 17. **Construcción de prototipos**: La hackathon culmina con una demostración de prototipos. Solo los equipos con una demostración funcional tendrán la posibilidad de presentar en la final del día domingo 25 de agosto de 2024.
 
 18. **Temáticas de la Hackathon**: Las categorías priorizadas son:
-	- Mitigación, adaptación y cambio climático.
-	- Reducción de impacto ambiental y huella de carbono.
-	- Desarrollo de las capacidades humanas y gestión del impacto de la IA en la vida de las personas.
+
+    - Mitigación, adaptación y cambio climático.
+    - Reducción de impacto ambiental y huella de carbono.
+    - Desarrollo de las capacidades humanas y gestión del impacto de la IA en la vida de las personas.
 
 19. **Proyectos fuera de las Temáticas Priorizadas**: Se aceptan proyectos fuera de las categorías priorizadas, aunque tendrán menos posibilidades de ser seleccionados.
 
@@ -74,9 +75,10 @@ Al ser parte de nuestras actividades acepta regirse por nuestro [código de cond
 23. **Número de Equipos Seleccionados**: Se seleccionarán 30 equipos o un total de 150 personas.
 
 24. **Criterios de Selección**:
-	- Buscamos proyectos ambiciosos que utilicen capacidades de la IA y tengan un impacto significativo en las temáticas de la hackathon.
-	- Buscamos equipos capaces, diversos, con miembros de distintos perfiles y niveles de experiencia.
-	- Buscamos una clara aplicación de la IA, generen valor y busquen un impacto relevante en las personas.
+
+    - Buscamos proyectos ambiciosos que utilicen capacidades de la IA y tengan un impacto significativo en las temáticas de la hackathon.
+    - Buscamos equipos capaces, diversos, con miembros de distintos perfiles y niveles de experiencia.
+    - Buscamos una clara aplicación de la IA, generen valor y busquen un impacto relevante en las personas.
 
 25. **Anuncio de Equipos Seleccionados**: Los resultados se anunciarán el martes 30 de julio por correo electrónico.
 
@@ -91,3 +93,11 @@ Al ser parte de nuestras actividades acepta regirse por nuestro [código de cond
 30. **Premios**: Se repartirán USD 10,000 en premios y créditos para los equipos ganadores.
 
 31. **Compromisos de los participantes en la hackathon**: Se espera que todos los participantes, y especialmente el equipo ganador, permitan que la organización registre audiovisualmente la experiencia de la hackathon y que estén disponibles para participar en actividades de prensa, permitiendo el uso de su imagen para dichos fines. Esto incluye entrevistas, sesiones de fotografía y otras apariciones mediáticas organizadas por CommunityOS.
+
+32. **Notificación y Respuesta Obligatoria**: Todos los equipos deben proporcionar un medio de comunicación electrónico (correo electrónico, teléfono, whatsapp, etc.) de contacto válido y mantenerlo actualizado durante el proceso. La organización enviará notificaciones importantes (incluyendo, pero sin limitarse a, la asignación de premios y solicitudes de confirmación) al medio de comunicación electrónico indicado. Se considerará que el equipo ha aceptado los premios solo si responde afirmativamente a la notificación dentro del plazo de 1 mese a partir del envío del correo.
+
+33. **Rescisión Automática de Premios por Inactividad**: Si un equipo no responde a las notificaciones o correos electrónicos enviados por la organización dentro del plazo de 1 mes, se entenderá que renuncia tácitamente a los premios adjudicados. En ese caso, la organización se reserva el derecho de rescindir, anular y reasignar dichos premios a otro equipo, sin que ello genere responsabilidad, indemnización o compensación alguna para la organización.
+
+34. **Confirmación de Datos y Actualización de Información**: Es responsabilidad exclusiva del equipo mantener actualizada su información de contacto. La organización no será responsable por la falta de recepción de notificaciones o la imposibilidad de comunicación derivada de datos incorrectos o desactualizados. En caso de que se detecte que la información proporcionada es errónea o ha quedado obsoleta, la organización podrá considerar al equipo inactivo y proceder a la rescisión de los premios.
+
+35. **Procedimiento de Reasignación de Premios**: La organización podría establecer un procedimiento interno para la verificación de respuestas y la reasignación de premios en caso de inactividad. Este procedimiento podría incluir múltiples intentos de notificación. Si después de dichos intentos no se obtiene respuesta en el plazo estipulado, se dará por concluida la asignación del premio.
